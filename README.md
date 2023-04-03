@@ -1,1 +1,1 @@
-# item_repo
+# xxxd_repos
